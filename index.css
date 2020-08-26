@@ -1,0 +1,112 @@
+.inochi {
+    background: radial-gradient(
+        circle at 43.0% 12.4%,
+        red 10%,
+        transparent 0%
+    ),
+    radial-gradient(
+        ellipse 93% 100% at 29.6% 23.1%,
+        red 10%,
+        transparent 0%
+    ),
+    radial-gradient(
+        circle at 7.9% 29.5%,
+        dodgerblue 2.3%,
+        transparent 0%
+    ),
+    radial-gradient(
+        circle at 10.5% 31%,
+        white 5%,
+        transparent 0%
+    ),
+    radial-gradient(
+        circle at 13.5% 32.8%,
+        red 10%,
+        transparent 0%
+    ),
+    radial-gradient(
+        circle at 29.3% 39.0%,
+        red 10%,
+        transparent 0%
+    ),
+    radial-gradient(
+        circle at 19.7% 52.1%,
+        dodgerblue 2.7%,
+        transparent 0%
+    ),
+    radial-gradient(
+        circle at 20% 55%,
+        white 5.7%,
+        transparent 0%
+    ),
+    radial-gradient(
+        circle at 16.9% 52.9%,
+        red 12.5%,
+        transparent 0%
+    ),
+    radial-gradient(
+        ellipse 60% 100% at 25.5% 68.5%,
+        red 11%,
+        transparent 0%
+    ),
+    radial-gradient(
+        circle at 34.7% 81.9%,
+        red 9%,
+        transparent 0%
+    ),
+    radial-gradient(
+        circle at 52% 91.75%,
+        dodgerblue 2%,
+        transparent 0%
+    ),
+    radial-gradient(
+        circle at 52% 89.0%,
+        white 4.7%,
+        transparent 0%
+    ),
+    radial-gradient(
+        circle at 53.5% 84.0%,
+        red 13.5%,
+        transparent 0%
+    ),
+    radial-gradient(
+        circle at 79.9% 69.2%,
+        dodgerblue 2.8%,
+        transparent 0%
+    ),
+    radial-gradient(
+        ellipse 100% 90% at 76.3% 70.7%,
+        white 7%,
+        transparent 0%
+    ),
+    radial-gradient(
+        ellipse 100% 90% at 71.4% 69.5%,
+        red 14.3%,
+        transparent 0%
+    ),
+    radial-gradient(
+        ellipse 83% 100% at 73.9% 47.7%,
+        red 11.3%,
+        transparent 0%
+    ),
+    radial-gradient(
+        ellipse 100% 50% at 75.3% 32.7%,
+        red 16%,
+        transparent 0%
+    ),
+    radial-gradient(
+        circle at 70.5% 9.2%,
+        dodgerblue 2.5%,
+        transparent 0%
+    ),
+    radial-gradient(
+        circle at 68.5% 11.5%,
+        white 5.3%,
+        transparent 0%
+    ),
+    radial-gradient(
+        circle at 65.3% 16.5%,
+        red 13%,
+        transparent 0%
+    );
+}
